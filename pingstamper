@@ -22,6 +22,3 @@ while (( $TIME >= 0 )); do
 	echo "`date` : `ping -c 1 ${SVR} | grep ^64`"
 	sleep $TIME
 done
-
-
-
