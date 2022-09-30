@@ -169,3 +169,4 @@
 (\.|^)zend2.com
 (\.|^)zeronaught.com
 .ru$
+^wpad.
