@@ -1,3 +1,12 @@
+analytics.plex.tv	
+d3p8zr0ffa9t17.cloudfront.net	
+pixel.monitor1.returnpath.net	
+samples.voice.cti.roku.com	
+scratch.mit.edu	
+tpc.googlesyndication.com	
+track.pixel.prod-na.turntable.sonic.advertising.amazon.dev	
+watch-cdn.product.api.espn.com	
+watch.product.api.espn.com	
 sites.google.com/k12.friscoisd.org/free-for-all-gxmes/home
 sites.google.com/view/2b0/homepage
 sites.google.com/view/bigfootshack/home
