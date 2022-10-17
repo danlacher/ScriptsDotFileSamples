@@ -216,3 +216,4 @@
 (\.|^)playcanvas\.com
 (\.|^)mathnook\.com$
 (\.|^)fornutbattelepass\.ga$
+(\.|^)e0\.wF$
