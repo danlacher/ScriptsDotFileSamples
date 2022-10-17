@@ -217,3 +217,7 @@
 (\.|^)mathnook\.com$
 (\.|^)fornutbattelepass\.ga$
 (\.|^)e0\.wF$
+(\.|^)sidekickopen\.com$
+(\.|^)sidekickopen\d\.com$
+(\.|^)sidekickopen\d\d\.com$
+(\.|^)sidekickopen\d\d\d\.com$
