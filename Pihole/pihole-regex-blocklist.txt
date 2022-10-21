@@ -221,3 +221,4 @@
 (\.|^)sidekickopen\d\.com$
 (\.|^)sidekickopen\d\d\.com$
 (\.|^)sidekickopen\d\d\d\.com$
+(\.|^)goku\.to$
