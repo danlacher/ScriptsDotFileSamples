@@ -222,3 +222,8 @@
 (\.|^)sidekickopen\d\d\.com$
 (\.|^)sidekickopen\d\d\d\.com$
 (\.|^)goku\.to$
+(\.|^)shootup\.io$
+(\.|^)ls\.gd$
+(\.|^)shootem\.io$
+(\.|^)crazysteve\.io$
+(\.|^)craftnite\.io$
