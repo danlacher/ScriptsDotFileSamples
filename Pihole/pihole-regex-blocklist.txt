@@ -227,3 +227,4 @@
 (\.|^)shootem\.io$
 (\.|^)crazysteve\.io$
 (\.|^)craftnite\.io$
+(\.|^)flufu\.io$
