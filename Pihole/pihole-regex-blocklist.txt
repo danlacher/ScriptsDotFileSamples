@@ -91,6 +91,10 @@
 (\.|^)kproxy\.com$
 (\.|^)krunker\.io$
 (\.|^)logs.roku\.com$
+(\.|^)data.roku\.com$
+(\.|^)web.roku\.com$
+(\.|^)sr.roku\.com$
+(\.|^)rokutime\.com$
 (\.|^)masterhub\.tk$
 (\.|^)mcdouglas\.org$
 (\.|^)mdhv\.io$
@@ -228,3 +232,6 @@
 (\.|^)crazysteve\.io$
 (\.|^)craftnite\.io$
 (\.|^)flufu\.io$
+(\.|^)ravm\.tv$
+(\.|^)ramv\.tv$
+(\.|^)safefind\.org$
