@@ -235,3 +235,15 @@
 (\.|^)ravm\.tv$
 (\.|^)ramv\.tv$
 (\.|^)safefind\.org$
+(\.|^)infobyip\.com$
+(\.|^)poptropi\.ca$
+(\.|^)battledudes\.io$
+(\.|^)royaldudes\.io$
+(\.|^)flappyroyale\.io$
+(\.|^)ferge\.io$
+(\.|^)crazysteve\.io$
+(\.|^)noob\.io$
+(\.|^)zonealarm\.com$
+(\.|^)codepen\.io$
+(\.|^)nightz\.io$
+(\.|^)oib\.io$
