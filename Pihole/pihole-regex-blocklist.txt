@@ -233,7 +233,6 @@
 (\.|^)craftnite\.io$
 (\.|^)flufu\.io$
 (\.|^)ravm\.tv$
-(\.|^)ramv\.tv$
 (\.|^)safefind\.org$
 (\.|^)infobyip\.com$
 (\.|^)poptropi\.ca$
