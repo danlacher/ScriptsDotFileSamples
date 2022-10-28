@@ -14,7 +14,6 @@
 (\.|^)arc\.io$
 (\.|^)arra\.io$
 (\.|^)arras\.io$
-(\.|^)aubruh\.tech$
 (\.|^)ay\.delivery$
 (\.|^)baseattackforce\.com$
 (\.|^)bnmla\.com$
@@ -138,7 +137,6 @@
 (\.|^)sealflix\.pizza$
 (\.|^)secondfortune\.com$
 (\.|^)seed-germination\.xyz$
-(\.|^)simgames\.io$
 (\.|^)skribblio\.club$
 (\.|^)skribblio\.com$
 (\.|^)slither\.io$
@@ -183,7 +181,6 @@
 (\.|^)bitly\.com$
 (\.|^)webshare\.io$
 (\.|^)spys\.one$
-(\.|^)ddrkirby\.com$
 (\.|^)spiceworks\.com$
 (\.|^)scratch.mit\.edu$
 (\.|^)nosrimneck\.live$
@@ -213,7 +210,6 @@
 (\.|^)luphoria\.com$
 (\.|^)websiteasteroids\.com$
 (\.|^)programiz\.com$
-(\.|^)zayaruzostreetorgan\.com$
 (\.|^)is\.gd$
 (\.|^)zayaruzostreetorgan\.com$
 (\.|^)kaetram\.com$
@@ -229,7 +225,6 @@
 (\.|^)shootup\.io$
 (\.|^)ls\.gd$
 (\.|^)shootem\.io$
-(\.|^)crazysteve\.io$
 (\.|^)craftnite\.io$
 (\.|^)flufu\.io$
 (\.|^)ravm\.tv$
@@ -246,3 +241,9 @@
 (\.|^)codepen\.io$
 (\.|^)nightz\.io$
 (\.|^)oib\.io$
+(\.|^)juegosfriv\.org$
+(\.|^)ttt4\.com$
+(\.|^)jsitor\.com$
+(\.|^)texteditor\.co$
+(\.|^)coolmath-online\.com$
+(\.|^)coolmath-games\.com$
