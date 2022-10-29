@@ -93,7 +93,6 @@
 (\.|^)data.roku\.com$
 (\.|^)web.roku\.com$
 (\.|^)sr.roku\.com$
-(\.|^)rokutime\.com$
 (\.|^)masterhub\.tk$
 (\.|^)mcdouglas\.org$
 (\.|^)mdhv\.io$
