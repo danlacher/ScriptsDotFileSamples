@@ -246,3 +246,8 @@
 (\.|^)texteditor\.co$
 (\.|^)coolmath-online\.com$
 (\.|^)coolmath-games\.com$
+(\.|^)mathpapa\.com$
+(\.|^)bookboon\.com$
+(\.|^)oib\.io$
+(\.|^)veed\.io$
+(\.|^)theoccultmuseum\.com$
