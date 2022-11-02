@@ -170,6 +170,7 @@
 (\.|^)zend2\.com$
 (\.|^)zeronaught\.com$
 .ru$
+*.ru$
 ^wpad.
 (\.|^)weebly\.com$
 (\.|^)geonode\.com
@@ -251,3 +252,6 @@
 (\.|^)oib\.io$
 (\.|^)veed\.io$
 (\.|^)theoccultmuseum\.com$
+(\.|^)ninja\.io$
+(\.|^)multoigri\.ru$
+(\.|^)vseigru\.net$
