@@ -255,3 +255,7 @@
 (\.|^)ninja\.io$
 (\.|^)multoigri\.ru$
 (\.|^)vseigru\.net$
+(\.|^)martin-laxenaire\.fr$
+(\.|^)duckduckgo\.com$
+(\.|^)magicsw\.com$
+(\.|^)mathplayground\.com$
