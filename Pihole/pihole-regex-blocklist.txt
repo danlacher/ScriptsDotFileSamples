@@ -259,3 +259,5 @@
 (\.|^)duckduckgo\.com$
 (\.|^)magicsw\.com$
 (\.|^)mathplayground\.com$
+(\.|^)flamingtext\.com$
+(\.|^)remove\.bg$
