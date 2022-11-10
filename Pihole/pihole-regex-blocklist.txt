@@ -174,7 +174,6 @@
 ^wpad.
 (\.|^)weebly\.com$
 (\.|^)geonode\.com
-(\.|^)unlv\.edu$
 (\.|^)libguides\.com$
 (\.|^)fluencylink\.com$
 (\.|^)iproyal\.com$
@@ -261,3 +260,12 @@
 (\.|^)mathplayground\.com$
 (\.|^)flamingtext\.com$
 (\.|^)remove\.bg$
+(\.|^)launchdarkly\.com$
+(\.|^)nr-data\.net$
+(\.|^)cookielaw\.org$
+(\.|^)googlezip\.net$
+(\.|^)inscloudgate\.net$
+(\.|^)typekit\.net$
+(\.|^)pucks\.io$
+(\.|^)gopher-buddy-prod\.appspot\.com$
+(\.|^)nifty-condition-169823\.appspot\.com$
