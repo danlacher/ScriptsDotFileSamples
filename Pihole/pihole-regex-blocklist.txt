@@ -269,3 +269,5 @@
 (\.|^)pucks\.io$
 (\.|^)gopher-buddy-prod\.appspot\.com$
 (\.|^)nifty-condition-169823\.appspot\.com$
+(\.|^)zapper\.fi$
+(\.|^)flip\.com$
