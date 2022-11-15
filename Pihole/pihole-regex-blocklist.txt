@@ -171,6 +171,8 @@
 (\.|^)zeronaught\.com$
 .ru$
 *.ru$
+.tk$
+*.tk$
 ^wpad.
 (\.|^)weebly\.com$
 (\.|^)geonode\.com
@@ -271,3 +273,6 @@
 (\.|^)nifty-condition-169823\.appspot\.com$
 (\.|^)zapper\.fi$
 (\.|^)flip\.com$
+(\.|^)agos\.info$
+(\.|^)mhtmlbeta\.ml$
+(\.|^)boostcookies\.tk$
