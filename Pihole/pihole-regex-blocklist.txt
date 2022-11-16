@@ -173,6 +173,8 @@
 *.ru$
 .tk$
 *.tk$
+.xyz$
+*.xyz$
 ^wpad.
 (\.|^)weebly\.com$
 (\.|^)geonode\.com
@@ -277,3 +279,5 @@
 (\.|^)mhtmlbeta\.ml$
 (\.|^)boostcookies\.tk$
 (\.|^)extrememath\.me$
+(\.|^)extrememath\.dev$
+(\.|^)simply-history\.xyz$
