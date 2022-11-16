@@ -276,3 +276,4 @@
 (\.|^)agos\.info$
 (\.|^)mhtmlbeta\.ml$
 (\.|^)boostcookies\.tk$
+(\.|^)extrememath\.me$
