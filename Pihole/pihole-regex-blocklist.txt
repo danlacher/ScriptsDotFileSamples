@@ -281,3 +281,8 @@
 (\.|^)extrememath\.me$
 (\.|^)extrememath\.dev$
 (\.|^)simply-history\.xyz$
+(\.|^)mfunclub\.com$
+(\.|^)arealme\.com$
+(\.|^)thatguy\.club$
+(\.|^)lobby\.game$
+(\.|^)aidenscripts\.wixsite\.com$
