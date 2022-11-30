@@ -286,3 +286,8 @@
 (\.|^)thatguy\.club$
 (\.|^)lobby\.game$
 (\.|^)aidenscripts\.wixsite\.com$
+(\.|^)speedrun\.com$
+(\.|^)snowwars\.io$
+(\.|^)bloxd\.io$
+(\.|^)zipextractor\.app$
+(\.|^)xtermjs\.org$

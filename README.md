@@ -15,3 +15,6 @@
 
 ## Misc: ##
 - lock.cmd ; quick command line way to lock session in Windows
+
+## Mastodom: ##
+<a rel="me" href="https://hachyderm.io/@danlacher">@DanLacher</a> on <a rel="me" href="https://hachyderm.io/@danlacher">Mastodon</a> via <a href="https://hachyderm.io">Hachyderm.io</a>
