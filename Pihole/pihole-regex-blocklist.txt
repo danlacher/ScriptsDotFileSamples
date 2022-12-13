@@ -291,3 +291,9 @@
 (\.|^)bloxd\.io$
 (\.|^)zipextractor\.app$
 (\.|^)xtermjs\.org$
+(\.|^)bloxd\.io$
+(\.|^)bigservers\.ml$
+(\.|^)poki\.ch$
+(\.|^)test123\.com$
+(\.|^)coolmath-games\.com$
+(\.|^)magicsw\.com$
