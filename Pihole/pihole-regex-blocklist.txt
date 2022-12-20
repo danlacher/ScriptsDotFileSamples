@@ -43,7 +43,6 @@
 (\.|^)dingdong\.io$
 (\.|^)dingdong.io 
 (\.|^)weeb-central\.us$
-(\.|^)discord\.com$
 (\.|^)districtm\.io$
 (\.|^)doorbell\.io$
 (\.|^)dotomi\.com$
@@ -274,7 +273,6 @@
 (\.|^)gopher-buddy-prod\.appspot\.com$
 (\.|^)nifty-condition-169823\.appspot\.com$
 (\.|^)zapper\.fi$
-(\.|^)flip\.com$
 (\.|^)agos\.info$
 (\.|^)mhtmlbeta\.ml$
 (\.|^)boostcookies\.tk$
@@ -294,6 +292,9 @@
 (\.|^)bloxd\.io$
 (\.|^)bigservers\.ml$
 (\.|^)poki\.ch$
+(\.|^)poki\.it$
 (\.|^)test123\.com$
 (\.|^)coolmath-games\.com$
 (\.|^)magicsw\.com$
+(\.|^)ichess\.net$
+(\.|^)letsenhance\.io$
