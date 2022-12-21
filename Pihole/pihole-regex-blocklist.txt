@@ -26,7 +26,6 @@
 (\.|^)bigservers\.ml$
 (\.|^)bitly\.com$
 (\.|^)bloxd\.io$
-(\.|^)bloxd\.io$
 (\.|^)bnmla\.com$
 (\.|^)bonk\.io$
 (\.|^)bookboon\.com$
@@ -295,3 +294,6 @@
 \.tk$
 \.xyz$
 ^wpad\.
+(\.|^)gamepix\.com$
+(\.|^)scrambled\.world$
+(\.|^)mathtutorial\.xyz$
