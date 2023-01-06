@@ -297,3 +297,4 @@
 (\.|^)gamepix\.com$
 (\.|^)scrambled\.world$
 (\.|^)mathtutorial\.xyz$
+(\.|^)emailr\.com$
