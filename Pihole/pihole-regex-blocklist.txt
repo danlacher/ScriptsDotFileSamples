@@ -298,3 +298,4 @@
 (\.|^)scrambled\.world$
 (\.|^)mathtutorial\.xyz$
 (\.|^)emailr\.com$
+(\.|^)shellsocks\.com$
