@@ -299,3 +299,5 @@
 (\.|^)mathtutorial\.xyz$
 (\.|^)emailr\.com$
 (\.|^)shellsocks\.com$
+(\.|^)humanorganising\.org$
+(\.|^)moatads\.com$
