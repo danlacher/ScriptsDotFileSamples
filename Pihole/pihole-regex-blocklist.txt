@@ -301,3 +301,6 @@
 (\.|^)shellsocks\.com$
 (\.|^)humanorganising\.org$
 (\.|^)moatads\.com$
+(\.|^)iogames\.live$
+(\.|^)lencr\.org$
+
