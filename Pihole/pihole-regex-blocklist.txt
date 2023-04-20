@@ -1,368 +1,361 @@
-# Used in combination with github/mmotti/pihole-regex
-(\.|^)1rx\.io$
-(\.|^)3lift\.com$
-(\.|^)6zar\.com$
-(\.|^)addthis\.com$
-(\.|^)addthisedge\.com$
-(\.|^)adinplay\.com$
-(\.|^)adinplay\.workers\.dev$
-(\.|^)adroll\.com$
-(\.|^)agar\.io$
-(\.|^)agos\.info$
-(\.|^)aidenscripts\.wixsite\.com$
-(\.|^)andre-knoop\.de$
-(\.|^)androidauthority\.com$
-(\.|^)aniorb\.me$
-(\.|^)anonymouss\.org$
-(\.|^)arass\.io$
-(\.|^)arc\.io$
-(\.|^)arealme\.com$
-(\.|^)arra\.io$
-(\.|^)arras\.io$
-(\.|^)aubruh\.tech$
-(\.|^)ay\.delivery$
-(\.|^)baseattackforce\.com$
-(\.|^)battledudes\.io$
-(\.|^)bigservers\.ml$
-(\.|^)bitly\.com$
-(\.|^)bloxd\.io$
-(\.|^)bnmla\.com$
-(\.|^)bonk\.io$
-(\.|^)bookboon\.com$
-(\.|^)boostcookies\.tk$
-(\.|^)boosted-luckey\.com$
-(\.|^)buildnow.gg
-(\.|^)canva\.com$
-(\.|^)carrd\.co$
-(\.|^)casalemedia\.com$
-(\.|^)catz\.net$
-(\.|^)cavegame\.io$
-(\.|^)celtra\.com$
-(\.|^)chengtsui\.co$
-(\.|^)chomebeat\.com$
-(\.|^)chrombeat\.com$
-(\.|^)clarium\.io$
-(\.|^)classroom\.weeb-central\.us$
-(\.|^)cloudflare\.rammerhead\.org$
-(\.|^)codepen\.io$
-(\.|^)codewars.ml$
-(\.|^)compactcow\.com$
-(\.|^)connatix\.com$
-(\.|^)construct\.net$
-(\.|^)cookielaw\.org$
-(\.|^)cookieparts\.com$
-(\.|^)coolmath-games\.com$
-(\.|^)coolmath-games\.com$
-(\.|^)coolmath-online\.com$
-(\.|^)coolmathgames\.com$
-(\.|^)copter\.io$
-(\.|^)coursera\.cf$
-(\.|^)craftnite\.io$
-(\.|^)crazygames\.com$
-(\.|^)crazysteve\.io$
-(\.|^)croxyproxy\.com$
-(\.|^)cryptovideos\.gpower\.network$
-(\.|^)csb.app
-(\.|^)data.roku\.com$
-(\.|^)ddrkirby\.com$
-(\.|^)defly\.io$
-(\.|^)dingdong.io 
-(\.|^)dingdong\.io$
-(\.|^)districtm\.io$
-(\.|^)doorbell\.io$
-(\.|^)dotomi\.com$
-(\.|^)duckduckgo\.com$
-(\.|^)dupl.io$
-(\.|^)dynast\.io$
-(\.|^)e0\.wF$
-(\.|^)editey\.com$
-(\.|^)edu\.vn$
-(\.|^)eggimpact.ga
-(\.|^)emerson\.com$
-(\.|^)exitgames\.com$
-(\.|^)exodragon\.com$
-(\.|^)expertcity\.com$
-(\.|^)extrememath\.dev$
-(\.|^)extrememath\.me$
-(\.|^)famitracker\.com$
-(\.|^)fandom\.com$
-(\.|^)ferge\.io$
-(\.|^)fiddlesalad\.com$
-(\.|^)fireblend\.com$
-(\.|^)firewallbypass\.online$
-(\.|^)fixhq\.to$
-(\.|^)flamingtext\.com$
-(\.|^)flappyroyale\.io$
-(\.|^)flipgrid\.cf$
-(\.|^)flipgrid\.gq$
-(\.|^)flixhq\.to$
-(\.|^)flock\.io$
-(\.|^)fluencylink\.com$
-(\.|^)flufu\.io$
-(\.|^)fornutbattelepass\.ga$
-(\.|^)frequent-ads\.com$
-(\.|^)gameads\.io$
-(\.|^)gamedatabox\.com$
-(\.|^)gamedistribution\.com$
-(\.|^)gats\.io$
-(\.|^)geometrydash-free\.com$
-(\.|^)geonode\.com
-(\.|^)getgo\.com$
-(\.|^)ggpht\.com$
-(\.|^)glitch\.me$
-(\.|^)goku\.to$
-(\.|^)googlezip\.net$
-(\.|^)gopher-buddy-prod\.appspot\.com$
-(\.|^)goto-rtc\.com$
-(\.|^)goto\.com$
-(\.|^)gotomeeting\.com$
-(\.|^)gpower\.network$
-(\.|^)herokuapp\.com$
-(\.|^)hide\.me$
-(\.|^)hidemyass\.com$
-(\.|^)hidester\.com$
-(\.|^)holymods\.dev$
-(\.|^)ichess\.net$
-(\.|^)incog\.dev$
-(\.|^)info\.com$
-(\.|^)infobyip\.com$
-(\.|^)inscloudgate\.net$
-(\.|^)instana\.io$
-(\.|^)io-8\.com$
-(\.|^)io-games\.live$
-(\.|^)iogames\.space$
-(\.|^)iproyal\.com$
-(\.|^)is\.gd$
-(\.|^)jellymar\.com$
-(\.|^)jrsoftware\.org$
-(\.|^)jsdelivr\.net$
-(\.|^)jsitor\.com$
-(\.|^)juegosfriv\.org$
-(\.|^)junglesock\.cf$
-(\.|^)kaetram\.com$
-(\.|^)kproxy\.com$
-(\.|^)krunker\.io$
-(\.|^)launchdarkly\.com$
-(\.|^)letsenhance\.io$
-(\.|^)libguides\.com$
-(\.|^)lobby\.game$
-(\.|^)logs.roku\.com$
-(\.|^)ls\.gd$
-(\.|^)luphoria\.com$
-(\.|^)magicsw\.com$
-(\.|^)magicsw\.com$
-(\.|^)martin-laxenaire\.fr$
-(\.|^)masterhub\.tk$
-(\.|^)mathnook\.com$
-(\.|^)mathpapa\.com$
-(\.|^)mathplayground\.com$
-(\.|^)mcdouglas\.org$
-(\.|^)mdhv\.io$
-(\.|^)megaproxy\.com$
-(\.|^)mfunclub\.com$
-(\.|^)mhtmlbeta\.ml$
-(\.|^)midlandps\.net$
-(\.|^)miniclip\.com$
-(\.|^)miniclip\.zendesk\.com$
-(\.|^)moo\.io$
-(\.|^)msftncsi\.com$
-(\.|^)multoigri\.ru$
-(\.|^)mygeekshelp\.com$
-(\.|^)netflix\.com$
-(\.|^)netifly.app
-(\.|^)nifty-condition-169823\.appspot\.com$
-(\.|^)nightz\.io$
-(\.|^)ninja\.io$
-(\.|^)noob\.io$
-(\.|^)nosrimneck\.live$
-(\.|^)novasense-threats\.com$
-(\.|^)nr-data\.net$
-(\.|^)oib\.io$
-(\.|^)oib\.io$
-(\.|^)otter\.ai$
-(\.|^)paperio-2\.net$
-(\.|^)paperio\.net$
-(\.|^)pendo\.io$
-(\.|^)playcanvas\.com
-(\.|^)playschoolgames\.com$
-(\.|^)pluralsight\.gq$
-(\.|^)poal\.me$
-(\.|^)poki\.ch$
-(\.|^)poki\.it$
-(\.|^)polyfill\.io$
-(\.|^)poptropi\.ca$
-(\.|^)privateap\.org$
-(\.|^)programiz\.com$
-(\.|^)proprofs\.com$
-(\.|^)proxysite\.com$
-(\.|^)pucks\.io$
-(\.|^)punt\.io$
-(\.|^)qualaroo\.com$
-(\.|^)quizlet\.gq$
-(\.|^)rackcdn\.com$
-(\.|^)ravm\.tv$
-(\.|^)rawgit\.com$
-(\.|^)raygun\.io$
-(\.|^)rbxcdn\.com$
-(\.|^)remove\.bg$
-(\.|^)repl\.co$
-(\.|^)replit\.com$
-(\.|^)repuls\.io$
-(\.|^)roblox\.com$
-(\.|^)rohmhaas\.net$
-(\.|^)royaldudes\.io$
-(\.|^)rubiconproject\.com$
-(\.|^)run3\.io$
-(\.|^)safefind\.org$
-(\.|^)samsungcloud\.tv$
-(\.|^)samsungqbe\.com$
-(\.|^)scibble\.io$
-(\.|^)scorecardresearch\.com$
-(\.|^)scratch.mit\.edu$
-(\.|^)scribble\.io$
-(\.|^)sealflix.co
-(\.|^)sealflix\.pizza$
-(\.|^)secondfortune\.com$
-(\.|^)seed-germination\.xyz$
-(\.|^)shootem\.io$
-(\.|^)shootup\.io$
-(\.|^)sidekickopen\.com$
-(\.|^)sidekickopen\d\.com$
-(\.|^)sidekickopen\d\d\.com$
-(\.|^)sidekickopen\d\d\d\.com$
-(\.|^)simgames\.io$
-(\.|^)simply-history\.xyz$
-(\.|^)skribblio\.club$
-(\.|^)skribblio\.com$
-(\.|^)slither\.io$
-(\.|^)smartoels\.tk$
-(\.|^)smartowls\.tk$
-(\.|^)snapengage\.com$
-(\.|^)snowwars\.io$
-(\.|^)speedrun\.com$
-(\.|^)spiceworks\.com$
-(\.|^)spys\.one$
-(\.|^)squigglepark\.com$
-(\.|^)sr.roku\.com$
-(\.|^)stickyadstv\.com$
-(\.|^)stolk\.io$
-(\.|^)strn.pl
-(\.|^)strn\.network$
-(\.|^)studyschooltoday.eu\.org$
-(\.|^)summerhamster\.com$
-(\.|^)sysnow\.org$
-(\.|^)taboola\.com$
-(\.|^)taming\.io$
-(\.|^)techlore\.tech$
-(\.|^)test123\.com$
-(\.|^)texteditor\.co$
-(\.|^)thatguy\.club$
-(\.|^)theoccultmuseum\.com$
-(\.|^)time2technology\.com$
-(\.|^)ttt4\.com$
-(\.|^)typekit\.net$
-(\.|^)typeracer\.gq$
-(\.|^)usa1lib\.org$
-(\.|^)usemessages\.com$
-(\.|^)utopiaworld\.ink$
-(\.|^)veed\.io$
-(\.|^)vidyard\.com$
-(\.|^)vpnbook\.com$
-(\.|^)vseigru\.net$
-(\.|^)web.roku\.com$
-(\.|^)webshare\.io$
-(\.|^)websiteasteroids\.com$
-(\.|^)websitedownloader\.io$
-(\.|^)weeb-central\.us$
-(\.|^)weebly\.com$
-(\.|^)whoer\.net$
-(\.|^)winterwaffles\.tk$
-(\.|^)xtermjs\.org$
-(\.|^)yandex.ru
-(\.|^)yandex\.com$
-(\.|^)yandex\.net$
-(\.|^)yastatic\.net$
-(\.|^)zamzar\.com$
-(\.|^)zapper\.fi$
-(\.|^)zapper\.io$
-(\.|^)zayaruzostreetorgan\.com$
-(\.|^)zend2\.com$
-(\.|^)zeronaught\.com$
-(\.|^)zipextractor\.app$
-(\.|^)zonealarm\.com$
-\.ru$
-\.tk$
-\.xyz$
-^wpad\.
-(\.|^)gamepix\.com$
-(\.|^)scrambled\.world$
-(\.|^)mathtutorial\.xyz$
-(\.|^)emailr\.com$
-(\.|^)shellsocks\.com$
-(\.|^)humanorganising\.org$
-(\.|^)moatads\.com$
-(\.|^)iogames\.live$
-(\.|^)lencr\.org$
-(\.|^)mathactivity\.club$
-(\.|^)4dex\.io$
-(\.|^)algebra\.best$
-(\.|^)algebra\.vip$
-(\.|^)biologyclass\.club$
-(\.|^)deadlyegg\.com$
-(\.|^)deathegg\.world$
-(\.|^)egg\.dance$
-(\.|^)eggboy\.club$
-(\.|^)eggboy\.xyz$
-(\.|^)eggcombat\.com$
-(\.|^)eggfacts\.fun$
-(\.|^)egghead\.institute$
-(\.|^)eggisthenewblack\.com$
-(\.|^)eggsarecool\.com$
-(\.|^)eggshooter\.best$
-(\.|^)geometry\.best$
-(\.|^)geometry\.monster$
-(\.|^)geometry\.pw$
-(\.|^)geometry\.report$
-(\.|^)hardboiled\.life$
-(\.|^)hardshell\.life$
-(\.|^)humanorganising\.org$
-(\.|^)mathactivity\.xyz$
-(\.|^)mathdrills\.info$
-(\.|^)mathdrills\.life$
-(\.|^)mathfun\.rocks$
-(\.|^)mathgames\.world$
-(\.|^)math\.international$
-(\.|^)mathlete\.fun$
-(\.|^)mathlete\.pro$
-(\.|^)shellshock\.io$
-(\.|^)overeasy\.club$
-(\.|^)scrambled\.best$
-(\.|^)scrambled\.tech$
-(\.|^)scrambled\.today$
-(\.|^)scrambled\.us$
-(\.|^)scrambled\.world$
-(\.|^)shellsocks\.com$
-(\.|^)shellshockers\.club$
-(\.|^)shellshockers\.site$
-(\.|^)shellshockers\.us$
-(\.|^)shellshockers\.world$
-(\.|^)softboiled\.club$
-(\.|^)urbanegger\.com$
-(\.|^)violentegg\.club$
-(\.|^)violentegg\.fun$
-(\.|^)yolk\.best$
-(\.|^)yolk\.life$
-(\.|^)yolk\.quest$
-(\.|^)yolk\.rocks$
-(\.|^)yolk\.tech$
-(\.|^)yolk\.today$
-(\.|^)zygote\.cafe$
-(\.|^)cheezgam\.es$
-(\.|^)crazygames\.com$
-(\.|^)kevin\.games$
-(\.|^)strelyaj\.ru$
-(\.|^)poki\.com$
-(\.|^)shell-shockers\.online$
-(\.|^)izigames\.net$
-(\.|^)yohoho\.live$
-(\.|^)1001juegos\.com$
+   1 # Used in combination with github/mmotti/pihole-regex
+   1 (\.|^)1001juegos\.com$
+   1 (\.|^)1rx\.io$
+   1 (\.|^)3lift\.com$
+   1 (\.|^)4dex\.io$
+   1 (\.|^)6zar\.com$
+   1 (\.|^)addthis\.com$
+   1 (\.|^)addthisedge\.com$
+   1 (\.|^)adinplay\.com$
+   1 (\.|^)adinplay\.workers\.dev$
+   1 (\.|^)adroll\.com$
+   1 (\.|^)agar\.io$
+   1 (\.|^)agos\.info$
+   1 (\.|^)aidenscripts\.wixsite\.com$
+   1 (\.|^)algebra\.best$
+   1 (\.|^)algebra\.vip$
+   1 (\.|^)andre-knoop\.de$
+   1 (\.|^)androidauthority\.com$
+   1 (\.|^)aniorb\.me$
+   1 (\.|^)anonymouss\.org$
+   1 (\.|^)arass\.io$
+   1 (\.|^)arc\.io$
+   1 (\.|^)arealme\.com$
+   1 (\.|^)arra\.io$
+   1 (\.|^)arras\.io$
+   1 (\.|^)aubruh\.tech$
+   1 (\.|^)ay\.delivery$
+   1 (\.|^)baseattackforce\.com$
+   1 (\.|^)battledudes\.io$
+   1 (\.|^)bigservers\.ml$
+   1 (\.|^)biologyclass\.club$
+   1 (\.|^)bitly\.com$
+   1 (\.|^)bloxd\.io$
+   1 (\.|^)bnmla\.com$
+   1 (\.|^)bonk\.io$
+   1 (\.|^)bookboon\.com$
+   1 (\.|^)boostcookies\.tk$
+   1 (\.|^)boosted-luckey\.com$
+   1 (\.|^)buildnow.gg
+   1 (\.|^)canva\.com$
+   1 (\.|^)carrd\.co$
+   1 (\.|^)casalemedia\.com$
+   1 (\.|^)catz\.net$
+   1 (\.|^)cavegame\.io$
+   1 (\.|^)celtra\.com$
+   1 (\.|^)cheezgam\.es$
+   1 (\.|^)chengtsui\.co$
+   1 (\.|^)chomebeat\.com$
+   1 (\.|^)chrombeat\.com$
+   1 (\.|^)clarium\.io$
+   1 (\.|^)classroom\.weeb-central\.us$
+   1 (\.|^)cloudflare\.rammerhead\.org$
+   1 (\.|^)codepen\.io$
+   1 (\.|^)codewars.ml$
+   1 (\.|^)compactcow\.com$
+   1 (\.|^)connatix\.com$
+   1 (\.|^)construct\.net$
+   1 (\.|^)cookielaw\.org$
+   1 (\.|^)cookieparts\.com$
+   2 (\.|^)coolmath-games\.com$
+   1 (\.|^)coolmath-online\.com$
+   1 (\.|^)coolmathgames\.com$
+   1 (\.|^)copter\.io$
+   1 (\.|^)coursera\.cf$
+   1 (\.|^)craftnite\.io$
+   2 (\.|^)crazygames\.com$
+   1 (\.|^)crazysteve\.io$
+   1 (\.|^)croxyproxy\.com$
+   1 (\.|^)cryptovideos\.gpower\.network$
+   1 (\.|^)csb.app
+   1 (\.|^)data.roku\.com$
+   1 (\.|^)ddrkirby\.com$
+   1 (\.|^)deadlyegg\.com$
+   1 (\.|^)deathegg\.world$
+   1 (\.|^)defly\.io$
+   1 (\.|^)dingdong.io 
+   1 (\.|^)dingdong\.io$
+   1 (\.|^)districtm\.io$
+   1 (\.|^)doorbell\.io$
+   1 (\.|^)dotomi\.com$
+   1 (\.|^)duckduckgo\.com$
+   1 (\.|^)dupl.io$
+   1 (\.|^)dynast\.io$
+   1 (\.|^)e0\.wF$
+   1 (\.|^)editey\.com$
+   1 (\.|^)edu\.vn$
+   1 (\.|^)egg\.dance$
+   1 (\.|^)eggboy\.club$
+   1 (\.|^)eggboy\.xyz$
+   1 (\.|^)eggcombat\.com$
+   1 (\.|^)eggfacts\.fun$
+   1 (\.|^)egghead\.institute$
+   1 (\.|^)eggimpact.ga
+   1 (\.|^)eggisthenewblack\.com$
+   1 (\.|^)eggsarecool\.com$
+   1 (\.|^)eggshooter\.best$
+   1 (\.|^)emailr\.com$
+   1 (\.|^)emerson\.com$
+   1 (\.|^)exitgames\.com$
+   1 (\.|^)exodragon\.com$
+   1 (\.|^)expertcity\.com$
+   1 (\.|^)extrememath\.dev$
+   1 (\.|^)extrememath\.me$
+   1 (\.|^)famitracker\.com$
+   1 (\.|^)fandom\.com$
+   1 (\.|^)ferge\.io$
+   1 (\.|^)fiddlesalad\.com$
+   1 (\.|^)fireblend\.com$
+   1 (\.|^)firewallbypass\.online$
+   1 (\.|^)fixhq\.to$
+   1 (\.|^)flamingtext\.com$
+   1 (\.|^)flappyroyale\.io$
+   1 (\.|^)flipgrid\.cf$
+   1 (\.|^)flipgrid\.gq$
+   1 (\.|^)flixhq\.to$
+   1 (\.|^)flock\.io$
+   1 (\.|^)fluencylink\.com$
+   1 (\.|^)flufu\.io$
+   1 (\.|^)fornutbattelepass\.ga$
+   1 (\.|^)frequent-ads\.com$
+   1 (\.|^)gameads\.io$
+   1 (\.|^)gamedatabox\.com$
+   1 (\.|^)gamedistribution\.com$
+   1 (\.|^)gamepix\.com$
+   1 (\.|^)gats\.io$
+   1 (\.|^)geometry\.best$
+   1 (\.|^)geometry\.monster$
+   1 (\.|^)geometry\.pw$
+   1 (\.|^)geometry\.report$
+   1 (\.|^)geometrydash-free\.com$
+   1 (\.|^)geonode\.com
+   1 (\.|^)getgo\.com$
+   1 (\.|^)ggpht\.com$
+   1 (\.|^)glitch\.me$
+   1 (\.|^)goku\.to$
+   1 (\.|^)googlezip\.net$
+   1 (\.|^)gopher-buddy-prod\.appspot\.com$
+   1 (\.|^)goto-rtc\.com$
+   1 (\.|^)goto\.com$
+   1 (\.|^)gotomeeting\.com$
+   1 (\.|^)gpower\.network$
+   1 (\.|^)hardboiled\.life$
+   1 (\.|^)hardshell\.life$
+   1 (\.|^)herokuapp\.com$
+   1 (\.|^)hide\.me$
+   1 (\.|^)hidemyass\.com$
+   1 (\.|^)hidester\.com$
+   1 (\.|^)holymods\.dev$
+   2 (\.|^)humanorganising\.org$
+   1 (\.|^)ichess\.net$
+   1 (\.|^)incog\.dev$
+   1 (\.|^)info\.com$
+   1 (\.|^)infobyip\.com$
+   1 (\.|^)inscloudgate\.net$
+   1 (\.|^)instana\.io$
+   1 (\.|^)io-8\.com$
+   1 (\.|^)io-games\.live$
+   1 (\.|^)iogames\.live$
+   1 (\.|^)iogames\.space$
+   1 (\.|^)iproyal\.com$
+   1 (\.|^)is\.gd$
+   1 (\.|^)izigames\.net$
+   1 (\.|^)jellymar\.com$
+   1 (\.|^)jrsoftware\.org$
+   1 (\.|^)jsdelivr\.net$
+   1 (\.|^)jsitor\.com$
+   1 (\.|^)juegosfriv\.org$
+   1 (\.|^)junglesock\.cf$
+   1 (\.|^)kaetram\.com$
+   1 (\.|^)kevin\.games$
+   1 (\.|^)kproxy\.com$
+   1 (\.|^)krunker\.io$
+   1 (\.|^)launchdarkly\.com$
+   1 (\.|^)lencr\.org$
+   1 (\.|^)letsenhance\.io$
+   1 (\.|^)libguides\.com$
+   1 (\.|^)lobby\.game$
+   1 (\.|^)logs.roku\.com$
+   1 (\.|^)ls\.gd$
+   1 (\.|^)luphoria\.com$
+   2 (\.|^)magicsw\.com$
+   1 (\.|^)martin-laxenaire\.fr$
+   1 (\.|^)masterhub\.tk$
+   1 (\.|^)math\.international$
+   1 (\.|^)mathactivity\.club$
+   1 (\.|^)mathactivity\.xyz$
+   1 (\.|^)mathdrills\.info$
+   1 (\.|^)mathdrills\.life$
+   1 (\.|^)mathfun\.rocks$
+   1 (\.|^)mathgames\.world$
+   1 (\.|^)mathlete\.fun$
+   1 (\.|^)mathlete\.pro$
+   1 (\.|^)mathnook\.com$
+   1 (\.|^)mathpapa\.com$
+   1 (\.|^)mathplayground\.com$
+   1 (\.|^)mathtutorial\.xyz$
+   1 (\.|^)mcdouglas\.org$
+   1 (\.|^)mdhv\.io$
+   1 (\.|^)megaproxy\.com$
+   1 (\.|^)mfunclub\.com$
+   1 (\.|^)mhtmlbeta\.ml$
+   1 (\.|^)midlandps\.net$
+   1 (\.|^)miniclip\.com$
+   1 (\.|^)miniclip\.zendesk\.com$
+   1 (\.|^)moatads\.com$
+   1 (\.|^)moo\.io$
+   1 (\.|^)msftncsi\.com$
+   1 (\.|^)multoigri\.ru$
+   1 (\.|^)mygeekshelp\.com$
+   1 (\.|^)netflix\.com$
+   1 (\.|^)netifly.app
+   1 (\.|^)nifty-condition-169823\.appspot\.com$
+   1 (\.|^)nightz\.io$
+   1 (\.|^)ninja\.io$
+   1 (\.|^)noob\.io$
+   1 (\.|^)nosrimneck\.live$
+   1 (\.|^)novasense-threats\.com$
+   1 (\.|^)nr-data\.net$
+   2 (\.|^)oib\.io$
+   1 (\.|^)otter\.ai$
+   1 (\.|^)overeasy\.club$
+   1 (\.|^)paperio-2\.net$
+   1 (\.|^)paperio\.net$
+   1 (\.|^)pendo\.io$
+   1 (\.|^)playcanvas\.com
+   1 (\.|^)playschoolgames\.com$
+   1 (\.|^)pluralsight\.gq$
+   1 (\.|^)poal\.me$
+   1 (\.|^)poki\.ch$
+   1 (\.|^)poki\.com$
+   1 (\.|^)poki\.it$
+   1 (\.|^)polyfill\.io$
+   1 (\.|^)poptropi\.ca$
+   1 (\.|^)privateap\.org$
+   1 (\.|^)programiz\.com$
+   1 (\.|^)proprofs\.com$
+   1 (\.|^)proxysite\.com$
+   1 (\.|^)pucks\.io$
+   1 (\.|^)punt\.io$
+   1 (\.|^)qualaroo\.com$
+   1 (\.|^)quizlet\.gq$
+   1 (\.|^)rackcdn\.com$
+   1 (\.|^)ravm\.tv$
+   1 (\.|^)rawgit\.com$
+   1 (\.|^)raygun\.io$
+   1 (\.|^)rbxcdn\.com$
+   1 (\.|^)remove\.bg$
+   1 (\.|^)repl\.co$
+   1 (\.|^)replit\.com$
+   1 (\.|^)repuls\.io$
+   1 (\.|^)roblox\.com$
+   1 (\.|^)rohmhaas\.net$
+   1 (\.|^)royaldudes\.io$
+   1 (\.|^)rubiconproject\.com$
+   1 (\.|^)run3\.io$
+   1 (\.|^)safefind\.org$
+   1 (\.|^)samsungcloud\.tv$
+   1 (\.|^)samsungqbe\.com$
+   1 (\.|^)scibble\.io$
+   1 (\.|^)scorecardresearch\.com$
+   1 (\.|^)scrambled\.best$
+   1 (\.|^)scrambled\.tech$
+   1 (\.|^)scrambled\.today$
+   1 (\.|^)scrambled\.us$
+   2 (\.|^)scrambled\.world$
+   1 (\.|^)scratch.mit\.edu$
+   1 (\.|^)scribble\.io$
+   1 (\.|^)sealflix.co
+   1 (\.|^)sealflix\.pizza$
+   1 (\.|^)secondfortune\.com$
+   1 (\.|^)seed-germination\.xyz$
+   1 (\.|^)shell-shockers\.online$
+   1 (\.|^)shellshock\.io$
+   1 (\.|^)shellshockers\.club$
+   1 (\.|^)shellshockers\.site$
+   1 (\.|^)shellshockers\.us$
+   1 (\.|^)shellshockers\.world$
+   2 (\.|^)shellsocks\.com$
+   1 (\.|^)shootem\.io$
+   1 (\.|^)shootup\.io$
+   1 (\.|^)sidekickopen\.com$
+   1 (\.|^)sidekickopen\d\.com$
+   1 (\.|^)sidekickopen\d\d\.com$
+   1 (\.|^)sidekickopen\d\d\d\.com$
+   1 (\.|^)simgames\.io$
+   1 (\.|^)simply-history\.xyz$
+   1 (\.|^)skribblio\.club$
+   1 (\.|^)skribblio\.com$
+   1 (\.|^)slither\.io$
+   1 (\.|^)smartoels\.tk$
+   1 (\.|^)smartowls\.tk$
+   1 (\.|^)snapengage\.com$
+   1 (\.|^)snowwars\.io$
+   1 (\.|^)softboiled\.club$
+   1 (\.|^)speedrun\.com$
+   1 (\.|^)spiceworks\.com$
+   1 (\.|^)spys\.one$
+   1 (\.|^)squigglepark\.com$
+   1 (\.|^)sr.roku\.com$
+   1 (\.|^)stickyadstv\.com$
+   1 (\.|^)stolk\.io$
+   1 (\.|^)strelyaj\.ru$
+   1 (\.|^)strn.pl
+   1 (\.|^)strn\.network$
+   1 (\.|^)studyschooltoday.eu\.org$
+   1 (\.|^)summerhamster\.com$
+   1 (\.|^)sysnow\.org$
+   1 (\.|^)taboola\.com$
+   1 (\.|^)taming\.io$
+   1 (\.|^)techlore\.tech$
+   1 (\.|^)test123\.com$
+   1 (\.|^)texteditor\.co$
+   1 (\.|^)thatguy\.club$
+   1 (\.|^)theoccultmuseum\.com$
+   1 (\.|^)time2technology\.com$
+   1 (\.|^)ttt4\.com$
+   1 (\.|^)typekit\.net$
+   1 (\.|^)typeracer\.gq$
+   1 (\.|^)urbanegger\.com$
+   1 (\.|^)usa1lib\.org$
+   1 (\.|^)usemessages\.com$
+   1 (\.|^)utopiaworld\.ink$
+   1 (\.|^)veed\.io$
+   1 (\.|^)vidyard\.com$
+   1 (\.|^)violentegg\.club$
+   1 (\.|^)violentegg\.fun$
+   1 (\.|^)vpnbook\.com$
+   1 (\.|^)vseigru\.net$
+   1 (\.|^)web.roku\.com$
+   1 (\.|^)webshare\.io$
+   1 (\.|^)websiteasteroids\.com$
+   1 (\.|^)websitedownloader\.io$
+   1 (\.|^)weeb-central\.us$
+   1 (\.|^)weebly\.com$
+   1 (\.|^)whoer\.net$
+   1 (\.|^)winterwaffles\.tk$
+   1 (\.|^)xtermjs\.org$
+   1 (\.|^)yandex.ru
+   1 (\.|^)yandex\.com$
+   1 (\.|^)yandex\.net$
+   1 (\.|^)yastatic\.net$
+   1 (\.|^)yohoho\.live$
+   1 (\.|^)yolk\.best$
+   1 (\.|^)yolk\.life$
+   1 (\.|^)yolk\.quest$
+   1 (\.|^)yolk\.rocks$
+   1 (\.|^)yolk\.tech$
+   1 (\.|^)yolk\.today$
+   1 (\.|^)zamzar\.com$
+   1 (\.|^)zapper\.fi$
+   1 (\.|^)zapper\.io$
+   1 (\.|^)zayaruzostreetorgan\.com$
+   1 (\.|^)zend2\.com$
+   1 (\.|^)zeronaught\.com$
+   1 (\.|^)zipextractor\.app$
+   1 (\.|^)zonealarm\.com$
+   1 (\.|^)zygote\.cafe$
+   1 \.ru$
+   1 \.tk$
+   1 \.xyz$
+   1 ^wpad\.
