@@ -178,7 +178,6 @@
 (\.|^)logs.roku\.com$
 (\.|^)ls\.gd$
 (\.|^)luphoria\.com$
-(\.|^)magicsw\.com$
 (\.|^)martin-laxenaire\.fr$
 (\.|^)masterhub\.tk$
 (\.|^)math\.international$
