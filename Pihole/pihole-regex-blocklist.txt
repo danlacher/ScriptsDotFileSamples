@@ -361,3 +361,13 @@
 (\.|^)freegameshub\.net$
 (\.|^)elixir\.net$
 (\.|^)gamehub\.blog$
+(^|\.)muscdn\.com$
+(^|\.)musical\.ly$
+(^|\.)tiktok\.com$
+(^|\.)tiktok\.org$
+(^|\.)tiktokcdn\.com$
+(^|\.)ragchess\.com$
+(^|\.)noblo\.io$
+(\.|^)mathactivity\.club$
+(\.|^)heywise\.com$
+(\.|^)4dex\.io$
