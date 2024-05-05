@@ -371,3 +371,8 @@
 (\.|^)mathactivity\.club$
 (\.|^)heywise\.com$
 (\.|^)4dex\.io$
+(\.|^)buzzfeed\.com$
+(\.|^)mathactivity\.club$
+(\.|^)purepro4562.github.io
+(\.|^)redit\.com$
+(\.|^)heywise\.com
