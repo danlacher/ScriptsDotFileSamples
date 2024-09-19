@@ -67,7 +67,7 @@
 (\.|^)crazysteve\.io$
 (\.|^)croxyproxy\.com$
 (\.|^)cryptovideos\.gpower\.network$
-(\.|^)csb.app
+(\.|^)csb\.app$
 (\.|^)data.roku\.com$
 (\.|^)ddrkirby\.com$
 (\.|^)deadlyegg\.com$
@@ -79,7 +79,7 @@
 (\.|^)doorbell\.io$
 (\.|^)dotomi\.com$
 (\.|^)duckduckgo\.com$
-(\.|^)dupl.io$
+(\.|^)dupl\.io$
 (\.|^)dynast\.io$
 (\.|^)e0\.wF$
 (\.|^)editey\.com$
@@ -90,7 +90,7 @@
 (\.|^)eggcombat\.com$
 (\.|^)eggfacts\.fun$
 (\.|^)egghead\.institute$
-(\.|^)eggimpact.ga
+(\.|^)eggimpact\.ga$
 (\.|^)eggisthenewblack\.com$
 (\.|^)eggsarecool\.com$
 (\.|^)eggshooter\.best$
@@ -207,7 +207,7 @@
 (\.|^)multoigri\.ru$
 (\.|^)mygeekshelp\.com$
 (\.|^)netflix\.com$
-(\.|^)netifly.app
+(\.|^)netifly\.app$
 (\.|^)nifty-condition-169823\.appspot\.com$
 (\.|^)nightz\.io$
 (\.|^)ninja\.io$
@@ -264,7 +264,7 @@
 (\.|^)scrambled\.world$
 (\.|^)scratch.mit\.edu$
 (\.|^)scribble\.io$
-(\.|^)sealflix.co
+(\.|^)sealflix\.co$
 (\.|^)sealflix\.pizza$
 (\.|^)secondfortune\.com$
 (\.|^)seed-germination\.xyz$
@@ -299,7 +299,7 @@
 (\.|^)stickyadstv\.com$
 (\.|^)stolk\.io$
 (\.|^)strelyaj\.ru$
-(\.|^)strn.pl
+(\.|^)strn\.pl$
 (\.|^)strn\.network$
 (\.|^)studyschooltoday.eu\.org$
 (\.|^)summerhamster\.com$
@@ -368,11 +368,11 @@
 (^|\.)tiktokcdn\.com$
 (^|\.)ragchess\.com$
 (^|\.)noblo\.io$
-(\.|^)mathactivity\.club$
-(\.|^)heywise\.com$
-(\.|^)4dex\.io$
-(\.|^)buzzfeed\.com$
-(\.|^)mathactivity\.club$
-(\.|^)purepro4562.github.io
-(\.|^)redit\.com$
-(\.|^)heywise\.com
+(^|\.)mathactivity\.club$
+(^|\.)heywise\.com$
+(^|\.)4dex\.io$
+(^|\.)buzzfeed\.com$
+(^|\.)mathactivity\.club$
+(^|\.)purepro4562.github.io
+(^|\.)reddit\.com$
+(^|\.)heywise\.com
