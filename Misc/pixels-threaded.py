@@ -1,16 +1,19 @@
 from PIL import Image # Pillow Library https://python-pillow.org/
 import threading # import threading library
 
-img = Image.new(mode = "RGB", size = (1,1))
-pixels = img.load() # Creates the pixel map
+#img = Image.new(mode = "RGB", size = (1,1))
+#pixels = img.load() # Creates the pixel map
 
 def thread_process(start, end):
+    img = Image.new(mode = "RGB", size = (1,1))
+    pixels = img.load() # Creates the pixel map
+
     for x in range(start, end):
         for y in range(start, end):
             for z in range (start, end):
                 pixels[0,0] = (x,y,z)
-                name = str(x).rjust(3,'0')+'_'+str(y).rjust(3,'0')+'_'+str(z).rjust(3,'0')+'.gif'
-                img.save(format='GIF', fp=name)
+                name = str(x).rjust(3,'0')+'_'+str(y).rjust(3,'0')+'_'+str(z).rjust(3,'0')+'.png'
+                img.save(format='PNG', fp=name)
 
 t0 = threading.Thread(target=thread_process, args=(0, 32))
 t1 = threading.Thread(target=thread_process, args=(32, 64))

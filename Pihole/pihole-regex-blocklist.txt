@@ -376,3 +376,5 @@
 (^|\.)purepro4562.github.io
 (^|\.)reddit\.com$
 (^|\.)heywise\.com
+(\.|^)noblo\.cc$
+(\.|^)ragchess\.com$
