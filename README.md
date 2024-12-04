@@ -1,4 +1,4 @@
-# Random Collection of scripts and dotfiles #
+# Random Collection of scripts, dotfiles, and a collector for ideas... #
 
 ## Misc ##
 - clock.html ; original code from [Clock](https://www.nayuki.io/res/full-screen-clock-javascript/full-screen-clock-12hr-with-seconds.html)
@@ -13,7 +13,7 @@
 - pihole-regex-allowlist.txt ; collection of sites that are directly approved to load on my [PiHole](https://pi-hole.net/) server
 - pihole-regex-blocklist.txt ; collection of sites that are loaded via [github/mmotti/pihole-regex](https://github.com/mmotti/pihole-regex) script
 
-## posts ##
+## Posts ##
 - "blog" posts... attempting to restart...
 
 ## Powershell: ##
