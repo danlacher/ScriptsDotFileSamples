@@ -4,14 +4,14 @@ for (( i=0; i>=0; i++ ))
 do
 	echo $i
 	DISPLAY=:0.0 XAUTHORITY=/home/pi/.Xauthority \
-	timeout 45 \
+	timeout 90s \
 		chromium-browser \
 			--temp-profile \
 			--start-fullscreen \
 			/home/pi/Downloads/full-screen-clock-12hr-with-seconds.html \
 			> /dev/null 2>&1
 	DISPLAY=:0.0 XAUTHORITY=/home/pi/.Xauthority \
-	timeout 570s \
+	timeout 300s \
 		/usr/bin/feh \
 			--auto-zoom \
 			--borderless \
@@ -30,6 +30,6 @@ do
 
 done
 
-# https://www.nayuki.io/res/full-screen-clock-javascript/full-screen-clock-12hr-with-seconds.html
-# kill -9 $(ps -ef | egrep -i "feh|timeout|slide" | grep -v grep | awk -F" " '{print $2}')
-# while(1>0); do slide.sh; done
+# crontab entries
+#@reboot sleep 30 && /home/danlacher/bin/slide.sh
+#0,30 * * * * kill -9 $(ps -ef | egrep -i "feh|timeout|slide|chromium" | grep -v grep | awk -F" " '{print $2}') && /home/danlacher/bin/slide.sh
