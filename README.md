@@ -19,6 +19,9 @@
 ## Powershell: ##
 - MDE-dump.ps1 ; used to dump MDE settings in a readable format from an admin powershell
 
+## TripleDigit ##
+- Interesting number problem came up upon myself while leaving a store this last week.  Can one come up with a 3 digit number, then using those same three digits in a different order (if needed) to form a second 3 digit number, then add the two 3 digit numbers together to add up to a three digit number that is only composed of those three digits...  Aside from 000.
+
 ## Unix: ##
 - count.ksh ; extend count to be able to provide the ability to count up or down and starting and stopping at specifc numbers
 - logrotate.ksh ; originally written to assist in log rotation before the modern logrotate function existed
