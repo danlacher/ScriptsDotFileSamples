@@ -7,6 +7,7 @@
 - pixels.py ; python version of an old piece of C code to create 16,777,216 pixels of the RGB color palette
 
 ## Pi-Hole: ##
+- adlists.txt ; a listing of all of the other open source lists that I pull in to block
 - install.py ; local copy of [github/mmotti/pihole-regex](https://github.com/mmotti/pihole-regex) modified for my [PiHole](https://pi-hole.net/) server
 - pihole-exact-allowlist.txt ; collection of sites that are directly approved to load on my [PiHole](https://pi-hole.net/) server
 - pihole-exact-blocklist.txt ; collection of sites that are directly blocked from load on my [PiHole](https://pi-hole.net/) server
