@@ -2,6 +2,6 @@
 
 sudo apt update
 sudo apt -y upgrade
-sudo apt -y install at screen rpi-connect nmon
+sudo apt -y install at screen rpi-connect nmon stress
 
-ssh-keygen -b 2048
+ssh-keygen -b 4096
