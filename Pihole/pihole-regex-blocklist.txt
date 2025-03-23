@@ -355,6 +355,7 @@
 (\.|^)zonealarm\.com$
 (\.|^)zygote\.cafe$
 \.ru$
+\.cn$
 \.tk$
 \.xyz$
 ^wpad\.
@@ -378,3 +379,4 @@
 (^|\.)heywise\.com
 (\.|^)noblo\.cc$
 (\.|^)ragchess\.com$
+(\.|^)twitch\.tv$

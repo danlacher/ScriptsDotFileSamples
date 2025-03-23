@@ -31,3 +31,11 @@
 (\.|^)dropbox\.com$
 (\.|^)tldrnewsletter\.com$
 (\.|^)lencr\.org$
+(\.|^)gvt2\.com$
+(\.|^)walkme\.com$
+(\.|^)fullstory\.com$
+(\.|^)canva\.com$
+(\.|^)intuit\.com$
+(\.|^)canva\.com$
+(\.|^)fullstory\.com$
+(\.|^)walkme\.com$

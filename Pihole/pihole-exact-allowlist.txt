@@ -31,3 +31,7 @@ v10.events.data.microsoft.com
 v10c.events.data.microsoft.com	
 www.google-analytics.com	
 www.googleadservices.com
+use.typekit.net
+cdn.id5-sync.com
+p.typekit.net
+cdn.jsdelivr.net
