@@ -1,6 +1,8 @@
 activity.windows.com	
 adservice.google.com	
 beacons5.gvt2.com	
+cdn.id5-sync.com
+cdn.jsdelivr.net
 cdn.segment.com	
 click.linksynergy.com	
 clients1.google.com	
@@ -20,6 +22,7 @@ m1.fwmrm.net
 manifest.auditude.com	
 nbcu.demdex.net	
 nexusrules.officeapps.live.com	
+p.typekit.net
 self.events.data.microsoft.com	
 settings-win.data.microsoft.com	
 telemetry.dropbox.com	
@@ -27,11 +30,8 @@ telemetry.remoteapp.windowsazure.com
 trk.klclick.com	
 trkn.us	
 try.abtasty.com	
+use.typekit.net
 v10.events.data.microsoft.com	
 v10c.events.data.microsoft.com	
 www.google-analytics.com	
 www.googleadservices.com
-use.typekit.net
-cdn.id5-sync.com
-p.typekit.net
-cdn.jsdelivr.net
