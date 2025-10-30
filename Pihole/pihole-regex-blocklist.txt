@@ -373,8 +373,12 @@
 (^|\.)tiktok\.com$
 (^|\.)tiktok\.org$
 (^|\.)tiktokcdn\.com$
+(^|\.)twitch\.tv$
+(^|\.)a8723\.com$
+\.ai$
 \.cn$
 \.ru$
 \.tk$
 \.xyz$
+\.porn$
 ^wpad\.
