@@ -1,9 +1,10 @@
-# Used in combination with github/mmotti/pihole-regex
 (\.|^)1001juegos\.com$
 (\.|^)1rx\.io$
 (\.|^)3lift\.com$
 (\.|^)4dex\.io$
+(\.|^)4dex\.io$
 (\.|^)6zar\.com$
+(\.|^)a8723\.com$
 (\.|^)addthis\.com$
 (\.|^)addthisedge\.com$
 (\.|^)adinplay\.com$
@@ -37,6 +38,7 @@
 (\.|^)boostcookies\.tk$
 (\.|^)boosted-luckey\.com$
 (\.|^)buildnow.gg
+(\.|^)buzzfeed\.com$
 (\.|^)canva\.com$
 (\.|^)carrd\.co$
 (\.|^)casalemedia\.com$
@@ -145,6 +147,7 @@
 (\.|^)hardboiled\.life$
 (\.|^)hardshell\.life$
 (\.|^)herokuapp\.com$
+(\.|^)heywise\.com$
 (\.|^)hide\.me$
 (\.|^)hidemyass\.com$
 (\.|^)hidester\.com$
@@ -185,6 +188,7 @@
 (\.|^)masterhub\.tk$
 (\.|^)math\.international$
 (\.|^)mathactivity\.club$
+(\.|^)mathactivity\.club$
 (\.|^)mathactivity\.xyz$
 (\.|^)mathdrills\.info$
 (\.|^)mathdrills\.life$
@@ -208,6 +212,8 @@
 (\.|^)moo\.io$
 (\.|^)msftncsi\.com$
 (\.|^)multoigri\.ru$
+(\.|^)muscdn\.com$
+(\.|^)musical\.ly$
 (\.|^)mygeekshelp\.com$
 (\.|^)netflix\.com$
 (\.|^)netifly\.app$
@@ -215,6 +221,7 @@
 (\.|^)nightz\.io$
 (\.|^)ninja\.io$
 (\.|^)noblo\.cc$
+(\.|^)noblo\.io$
 (\.|^)noob\.io$
 (\.|^)nosrimneck\.live$
 (\.|^)novasense-threats\.com$
@@ -240,14 +247,17 @@
 (\.|^)proxysite\.com$
 (\.|^)pucks\.io$
 (\.|^)punt\.io$
+(\.|^)purepro4562.github.io$
 (\.|^)qualaroo\.com$
 (\.|^)quizlet\.gq$
 (\.|^)rackcdn\.com$
+(\.|^)ragchess\.com$
 (\.|^)ragchess\.com$
 (\.|^)ravm\.tv$
 (\.|^)rawgit\.com$
 (\.|^)raygun\.io$
 (\.|^)rbxcdn\.com$
+(\.|^)reddit\.com$
 (\.|^)remove\.bg$
 (\.|^)repl\.co$
 (\.|^)replit\.com$
@@ -316,8 +326,12 @@
 (\.|^)texteditor\.co$
 (\.|^)thatguy\.club$
 (\.|^)theoccultmuseum\.com$
+(\.|^)tiktok\.com$
+(\.|^)tiktok\.org$
+(\.|^)tiktokcdn\.com$
 (\.|^)time2technology\.com$
 (\.|^)ttt4\.com$
+(\.|^)twitch\.tv$
 (\.|^)typekit\.net$
 (\.|^)typeracer\.gq$
 (\.|^)urbanegger\.com$
@@ -359,26 +373,11 @@
 (\.|^)zipextractor\.app$
 (\.|^)zonealarm\.com$
 (\.|^)zygote\.cafe$
-(^|\.)4dex\.io$
-(^|\.)buzzfeed\.com$
-(^|\.)heywise\.com
-(^|\.)heywise\.com$
-(^|\.)mathactivity\.club$
-(^|\.)muscdn\.com$
-(^|\.)musical\.ly$
-(^|\.)noblo\.io$
-(^|\.)purepro4562.github.io
-(^|\.)ragchess\.com$
-(^|\.)reddit\.com$
-(^|\.)tiktok\.com$
-(^|\.)tiktok\.org$
-(^|\.)tiktokcdn\.com$
-(^|\.)twitch\.tv$
-(^|\.)a8723\.com$
 \.ai$
 \.cn$
+\.porn$
 \.ru$
 \.tk$
 \.xyz$
-\.porn$
+# Used in combination with github/mmotti/pihole-regex
 ^wpad\.

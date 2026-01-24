@@ -1,7 +1,11 @@
+(.|^)dow\.com$
+(.|^)launchdarkly\.com$
+(.|^)mgln.ai$
 (\.|^)akamaized\.net$
 (\.|^)apple\.com$
 (\.|^)aria\.microsoft\.com$
 (\.|^)canva\.com$
+(\.|^)claude.ai$
 (\.|^)dropbox\.com$
 (\.|^)espn\.com$
 (\.|^)fullstory\.com$
@@ -9,6 +13,7 @@
 (\.|^)geo\.nbcsports\.com$
 (\.|^)goguardian\.com$
 (\.|^)gvt2\.com$
+(\.|^)gvt3\.com$
 (\.|^)icloud\.com$
 (\.|^)instructure\.com$
 (\.|^)intuit\.com$

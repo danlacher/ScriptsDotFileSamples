@@ -1,6 +1,8 @@
 analytics.plex.tv
 d3p8zr0ffa9t17.cloudfront.net
 google-drive-lti-iad-prod.instructure.com
+mask-h2.icloud.com
+mask.icloud.com
 pixel.monitor1.returnpath.net
 samples.voice.cti.roku.com
 scratch.mit.edu
